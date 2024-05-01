@@ -1,6 +1,6 @@
 {
   "prefix": "rr?",
-  "main_token": "MTIzNTI0MjQ2MjYxMjY4ODk4Ng.GAZrz8.NGNbyAZbSd1Dhjnac62RMZZxi5KcYOJQPDjT3c",
+  "main_token": "MTIzNTI0MjQ2MjYxMjY4ODk4Ng.GaH-wV.eLT6L40C7UxXT3Dx4k54WDvssgTIUmMiBL7E9U",
   "mongodb_url": "mongodb+srv://admin:<admin>@cluster0.xugc8hi.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
   "developers": ["1175367719374290954"],
   "bot_name":"Reaction Roles"
